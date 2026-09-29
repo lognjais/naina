@@ -3,14 +3,14 @@
     "version": "0.1.0",
     "description": "MCP server exposing naina (OCR) document reading to AI agents",
     "license": "Apache-2.0",
-    "homepage": "https://github.com/jvoltci/naina",
+    "homepage": "https://github.com/lognjais/naina",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/jvoltci/naina.git",
+        "url": "git+https://github.com/lognjais/naina.git",
         "directory": "mcp"
     },
     "bugs": {
-        "url": "https://github.com/jvoltci/naina/issues"
+        "url": "https://github.com/lognjais/naina/issues"
     },
     "type": "commonjs",
     "engines": {

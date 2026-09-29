@@ -1,7 +1,7 @@
 # naina — the web app
 
 Free OCR that runs entirely in the browser. Live at
-**[jvoltci.github.io/naina](https://jvoltci.github.io/naina/)**.
+**[lognjais.github.io/naina](https://lognjais.github.io/naina/)**.
 
 Drop a PDF or image, get text and structured markdown back. No upload, no
 account, no page limit. Works offline once the weights are cached.

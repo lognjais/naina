@@ -1,7 +1,7 @@
 # naina-mcp
 
 An MCP server that lets an AI agent read documents through
-[naina](https://github.com/jvoltci/naina).
+[naina](https://github.com/lognjais/naina).
 
 Two tools, deliberately:
 
