@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.description      = 'Reads text from images entirely on device. No network calls.'
   s.homepage         = 'https://github.com/lognjais/naina'
   s.license          = { :type => 'Apache-2.0', :file => '../LICENSE' }
-  s.author           = { 'jvoltci' => 'https://github.com/jvoltci' }
+  s.author           = { 'jvoltci' => 'https://github.com/lognjais' }
   s.source           = { :path => '.' }
   s.platform         = :ios, '13.0'
   s.dependency 'Flutter'

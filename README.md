@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/lognjais/naina/actions/workflows/ci.yml"><img src="https://github.com/lognjais/naina/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://github.com/lognjais/naina/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-1634C2.svg" alt="License"></a>
-  <a href="https://github.com/lognjais/naina/stargazers"><img src="https://img.shields.io/github/stars/jvoltci/naina.svg?style=social" alt="GitHub stars"></a>
+  <a href="https://github.com/lognjais/naina/stargazers"><img src="https://img.shields.io/github/stars/lognjais/naina.svg?style=social" alt="GitHub stars"></a>
 </p>
 
 <p align="center">
